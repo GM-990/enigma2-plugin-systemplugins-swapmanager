@@ -1,0 +1,83 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-02-28 19:54+0100\n"
+"PO-Revision-Date: 2017-10-15 20:32+0300\n"
+"Language-Team: LANGUAGE <Dima-73@inbox.lv>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: Dimitrij <Dima-73@inbox.lv>\n"
+"Language: ru\n"
+"X-Generator: Poedit 2.0.1\n"
+
+msgid "Activate"
+msgstr "Активировать"
+
+msgid "Active"
+msgstr "Активный"
+
+msgid "Autostart"
+msgstr "Автостарт"
+
+msgid "Create"
+msgstr "Создать"
+
+msgid "Current Status:"
+msgstr "Текущий статус:"
+
+msgid "Deactivate"
+msgstr "Активировать"
+
+msgid "Delete"
+msgstr "Удалить"
+
+msgid "Enable Swap at startup"
+msgstr "Включить Swap при старте системы"
+
+msgid "Inactive"
+msgstr "Неактивный"
+
+msgid "Info"
+msgstr "Инфо"
+
+msgid "Manage your swapfile"
+msgstr "Настройка swapfile"
+
+msgid "Please select device to use as swapfile location"
+msgstr "Выберите устройство для использования swapfile"
+
+msgid "Select the Swap File Size:"
+msgstr "Выберите размер Swap файла:"
+
+msgid "Sorry, no physical devices that supports SWAP attached. Can't create Swapfile on network or fat32 filesystems"
+msgstr "К сожалению нет физических устройств, которые поддерживают работу SWAP. Невозможно создать Swapfile в сети или на файловой системе fat32"
+
+msgid "Status:"
+msgstr "Статус:"
+
+msgid "Swap File not found. You have to create the file before to activate."
+msgstr "Swap файл не найден. Вы должны создать файл,прежде чем активировать его."
+
+msgid "Swap Manager"
+msgstr "Swap менеджер"
+
+msgid "Swap Place:"
+msgstr "Место Swap:"
+
+msgid "Swap Size:"
+msgstr "Размер Swap:"
+
+msgid "Wait please while creating swapfile..."
+msgstr "Подождите,создаем swapfile..."
+
+msgid "Wait please while scanning..."
+msgstr "Подождите,идет сканирование..."
+
+msgid "You have to create a Swap File before to activate the autostart."
+msgstr "Вы должны создать Swap файл, прежде чем активировать автозапуск."
+
+msgid "Project-Id-Version: PACKAGE VERSION"
+msgstr "Project-Id-Version: PACKAGE VERSION"
+
